@@ -1,4 +1,5 @@
 # hello-world
 A repository containing all my ideas, and wind imaginations.
 
-Hi, My name is Tanish Goel and I find Github very creative and innovative.
+Hello Sugar Labs
+I am Tanish Goel and I love programming with all my heart.
